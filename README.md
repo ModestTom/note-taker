@@ -16,7 +16,8 @@
   Clone repo and install required npm modules using 'npm i'
 
   ## Usage ##
-  Manage daily tasks or TODO's with this note taker. You can save and delete notes at ease. Give your note a title and view the various notes after saving by selecting the title of the note you wish to view. The trash can icon can be used to delete a specific note on click.
+  Manage daily tasks or TODO's with this note taker. You can save and delete notes at ease. Give your note a title and view the various notes after saving by selecting the title of the note you wish to view. The trash can icon can be used to delete a specific note on click. \
+  Here is a [link](https://mighty-anchorage-49436.herokuapp.com/) to the deployed application using heroku
 
   ## Contact ##
   * Email: thomas.spaeth01@gmail.com
